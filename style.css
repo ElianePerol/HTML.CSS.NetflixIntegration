@@ -21,23 +21,23 @@ header {
 }
 
 .new {
-display: flex;
-justify-content: center;
-align-items: center;
-padding: 2px 8px;
-background-color: #E50914;
-color: white;
-border-radius: 17px;
-font-size: 13px;
-font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+    background-color: #E50914;
+    color: white;
+    border-radius: 17px;
+    font-size: 13px;
+    font-weight: 700;
 }
 
 .plans {
-display: flex;
-justify-content: center;
-align-items: center;
-padding-left: 20px;
-font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 17px;
 }
 
 strong {
@@ -46,11 +46,11 @@ strong {
 }
 
 .learn {
-display: flex;
-justify-content: center;
-align-items: center;
-padding-left: 20px;
-font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 15px;
 }
 
 section {
